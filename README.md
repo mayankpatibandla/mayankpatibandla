@@ -6,7 +6,8 @@
 ### Tech Stack
 - Java
 - Python
-- C/C++
+- C
+- C++
 - C#
 - JavaScript/TypeScript
 - HTML/CSS
