@@ -8,7 +8,7 @@
 - Python
 - C
 - C++
-- C# (.NET & MAUI)
+- C# (.NET MAUI)
 - JavaScript/TypeScript
 - HTML/CSS
 - MATLAB
