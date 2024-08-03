@@ -1,5 +1,5 @@
 ### Hi, I am Mayank Patibandla
-- Computer Engineering Major at Purdue University (Honors)
+- Computer Engineering Student at Purdue University (Honors)
 - Member of Purdue ACM SIGBots
 - PROS developer
 
@@ -8,7 +8,7 @@
 - Python
 - C
 - C++
-- C#
+- C# (.NET & MAUI)
 - JavaScript/TypeScript
 - HTML/CSS
 - MATLAB
