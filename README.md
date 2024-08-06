@@ -18,6 +18,7 @@
   - JavaScript/TypeScript
   - HTML/CSS
   - MATLAB
+  - Ruby (Homebrew)
 - **Frameworks & Tools**:
   - Web Development
     - Node.js, Vue
