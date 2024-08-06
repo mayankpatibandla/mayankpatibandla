@@ -29,7 +29,7 @@
   - IDEs
     - Visual Studio, IntelliJ IDEA, PyCharm, VS Code, Neovim
   - Operating Systems
-    - Windows, Ubuntu, Arch Linux, Linux Mint
+    - Windows, Ubuntu, Arch Linux, Linux Mint, macOS
 
 ---
 
