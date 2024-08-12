@@ -16,6 +16,7 @@
   - C#
   - PowerShell
   - JavaScript/TypeScript
+  - XAML
   - HTML/CSS
   - MATLAB
   - Ruby (Homebrew)
@@ -23,7 +24,7 @@
   - Web Development
     - Node.js, Vue
   - Cross Platform Development
-    - XAML (.NET MAUI)
+    - .NET MAUI
   - Cloud Services
     - AWS, Azure, Heroku, Netlify
   - IDEs
