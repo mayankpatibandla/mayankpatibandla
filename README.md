@@ -28,9 +28,10 @@
   - Cloud Services
     - AWS, Azure, Heroku, Netlify
   - IDEs
-    - Visual Studio, IntelliJ IDEA, PyCharm, VS Code, Neovim, Xcode
+    - Visual Studio, IntelliJ IDEA, PyCharm, Android Studio, VS Code, Neovim, Xcode
   - Operating Systems
     - Windows, Ubuntu, Arch Linux, Linux Mint, macOS
+    - Android, iOS
 
 ---
 
