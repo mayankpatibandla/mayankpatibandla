@@ -1,8 +1,8 @@
 # Hi, I'm Mayank Patibandla 👋
 
 🎓 **Computer Engineering Student at Purdue University (Honors)**  
-🤖 **Member of Purdue ACM SIGBots**  
-💻 **PROS Developer**
+🤖 **Member of [Purdue ACM SIGBots](https://github.com/purduesigbots)**  
+💻 **[PROS](https://github.com/purduesigbots/pros-cli) Developer**
 
 ---
 
